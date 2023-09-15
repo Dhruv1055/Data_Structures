@@ -29,7 +29,6 @@ In an array, elements in memory are arranged in continuous memory. All the eleme
 
 ![Image](https://www.programiz.com/sites/tutorial2program/files/array_.png)
 
-An array
 An array with each element represented by an index
 ### 2. Stack Data Structure
 In stack data structure, elements are stored in the LIFO principle. That is, the last element stored in a stack will be removed first.
@@ -37,6 +36,7 @@ In stack data structure, elements are stored in the LIFO principle. That is, the
 It works just like a pile of plates where the last plate kept on the pile will be removed first.
 
 ![Image](https://www.programiz.com/sites/tutorial2program/files/stack_dsa.png)
+
 In a stack, operations can be perform only from one end (top here).
 ### 3. Queue Data Structure
 Unlike stack, the queue data structure works in the FIFO principle where first element stored in the queue will be removed first.
@@ -45,6 +45,7 @@ It works just like a queue of people in the ticket counter where first person on
  
 
 ![Image](https://www.programiz.com/sites/tutorial2program/files/stack_dsa.png)
+
 In a queue, addition and removal are performed from separate ends.
 ### 4. Linked List Data Structure
 In linked list data structure, data elements are connected through a series of nodes. And, each node contains the data items and address to the next node.
